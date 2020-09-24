@@ -1,2 +1,2 @@
-# new_website
+# news_website
 This is about news website
